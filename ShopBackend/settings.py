@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'orders',
     'CommerceManagement',
     'rest_framework.authtoken',
-    'rest_framework'
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
